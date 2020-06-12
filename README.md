@@ -1,2 +1,3 @@
-# tsparticles-preset-fire
-tsParticles preset 'fire'
+# This Repository is no longer maintained
+
+This repository is now part of **https://github.com/matteobruni/tsparticles**
